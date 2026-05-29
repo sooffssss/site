@@ -1,0 +1,158 @@
+.alumni-sans-uniquifier> {
+  font-family: "Alumni Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.inter-uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Alumni Sans", sans-serif;
+    font-size: 24px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1{
+      font-family: "Alumni Sans", sans-serif;
+      font-size: 96px;
+      margin-bottom: 20px;
+}
+
+h2{
+    font-family: "Alumni Sans", sans-serif;
+      font-size: 60px;
+}
+
+h3{
+    font-family: "Alumni Sans", sans-serif;
+      font-size: 24px;
+}
+
+ol{
+    list-style-type: none;
+    justify-content: right;
+}
+
+a{
+    text-decoration: none;
+    color: #2d2b2b;
+}
+
+.pic{
+    display: grid;
+    gap: 20px;
+}
+.section1{
+    margin-top: 30px;
+}
+.search-input{
+    justify-self: center;
+    width: 400px;
+    height: 32px;
+    border: none;
+}
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation ol{
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+}
+
+.logo {
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.links{
+    display: flex;
+    justify-content:right;
+}
+
+.one_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.twoflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #2d2b2b;
+    padding: 40px; 
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    font-family: "Alumni Sans", sans-serif;
+    font-size: 24px;
+    color: white;
+    margin: 15px;
+}
+.triflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 65px;
+
+}
+.sours1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:flex-end;
+    margin-left: auto;
+}
+
+.sours{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iskusstvo{
+    display: flex;
+    justify-self: left;
+    flex-wrap: wrap;
+}
+
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;     
+    margin: 0 auto;
+    padding: 40px 20px;
+}
